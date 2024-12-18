@@ -1,0 +1,1 @@
+This project is a stock price prediction tool that leverages machine learning models to forecast stock prices over a given time horizon. By analyzing historical data, the model aims to predict closing prices for specific stocks, providing insights for potential investors or financial analysts.
