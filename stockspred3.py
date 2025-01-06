@@ -1,6 +1,6 @@
 from sklearn.ensemble import RandomForestRegressor
-ALPACA_API_KEY = "PKG03QR2IM5ULS271SDH"
-ALPACA_SECRET_KEY = "tEnUGIoq1F6R9D3ihRegunJFUrKa4mFW521HzdUt"
+ALPACA_API_KEY = #
+ALPACA_SECRET_KEY = #
 BASE_URL = "https://paper-api.alpaca.markets"
 
 import numpy as np
